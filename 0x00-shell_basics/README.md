@@ -10,3 +10,5 @@ Task 8 Bye bye Betty
 Task 9 Bye bye My first directory
 Task 10 Back to the future
 Task 11 List
+Task 12 File type
+Task 13 We are symbols, and inhabit symbols
