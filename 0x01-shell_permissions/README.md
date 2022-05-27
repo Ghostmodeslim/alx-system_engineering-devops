@@ -1,2 +1,3 @@
 #!/bin/bash
-Task 1 My name is Betty
+Task 0 My name is Betty
+Task 1 Who am i
