@@ -11,3 +11,4 @@ Task 8 Save current state of directory
 Task 9 Duplicate last line
 Task 10 No more javascript
 Task 11 Dont just count your driectories, make your directories count
+Task 12 whats new
