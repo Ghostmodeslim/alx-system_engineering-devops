@@ -6,3 +6,4 @@ Task 3 What about 2?
 Task 4 Last lines of a file
 Task 5 Id prefer the first ones actually
 Task 6 line number 2
+Task 7 it is a good file that cuts iron without making a noise
