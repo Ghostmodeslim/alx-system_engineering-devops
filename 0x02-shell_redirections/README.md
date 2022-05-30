@@ -1,2 +1,2 @@
 #!/bin/bash
-Task 1 Hello World
+Task 0 Hello World
