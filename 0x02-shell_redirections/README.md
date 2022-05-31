@@ -25,4 +25,5 @@ Task 22 DJ Cut Killer
 Task 23 Empty casks make the most noise
 Task 24 A gif is worth ten thousand words
 Task 25 Acrostic
+Task 26 The biggest fan
 
