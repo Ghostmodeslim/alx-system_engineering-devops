@@ -14,3 +14,4 @@ Task 11 Dont just count your driectories, make your directories count
 Task 12 whats new
 Task 13 Being unique is better than being perfect
 Task 14 It must be in that file
+Task 15 count that word
