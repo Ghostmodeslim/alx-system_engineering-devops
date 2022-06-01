@@ -11,4 +11,5 @@ Task 8 True knowledge
 Task 9 Divide and rule
 Task 10 BREATH LOVE
 Task 11 Binary to Decimal
+Task 12 Combination
 
