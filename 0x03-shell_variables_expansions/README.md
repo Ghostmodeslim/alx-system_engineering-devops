@@ -15,4 +15,5 @@ Task 12 Combination
 Task 13 Float
 Task 14 Decimal to Hexadecimal
 Task 15 Everyone is a strong proponent of strong encryption
+Task 16 Brood odd number
 
