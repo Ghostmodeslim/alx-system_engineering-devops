@@ -14,4 +14,5 @@ Task 11 Binary to Decimal
 Task 12 Combination
 Task 13 Float
 Task 14 Decimal to Hexadecimal
+Task 15 Everyone is a strong proponent of strong encryption
 
